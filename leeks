@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>The Humble Vegetable</title>
+  <link href="css/bootstrap.css" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="css/main.css" rel="stylesheet">
+</head>
+<body>
+  <img src="https://images.unsplash.com/photo-1506785212-4b1c7d23a1cc?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a1d6bda22e7d454d56f64e206dffc92a&auto=format&fit=crop&w=975&q=80" alt="Squash">
+  <h2>Leeks</h2>
+    <h3>Did you know?</h3>
+      <p>Leeks are a member of the allium family along with onions and garlic</p>
+    <h3>Grow</h3>
+      <p>Leeks are best suited for growing in the open ground in moist, light seedbeds. They can be grown though  in large, deep containers or raised beds. They should be planted in early to mid spring</p>
+      <p>Water: These plants should be kept well watered, especially as they are initially becoming established.</p>
+      <p>Food: Feed regularly with a general purpose feed</p>
+      <p>Harvesting: Leeks should be harvested from mid autumn through to the end of late spring, depending on the time of sowing and the variety. They should be dug out using a spade or fork</p>
+  <h3>Bonus:</h3>
+      <p>The white and green parts of leeks taste different too so pack a two-taste punch to winter meals.</p>
+  <h3>Recipes:</h3>
+      <!-- https://cooking.nytimes.com/recipes/1014567-leek-quiche?action=click&module=Tag%20Page%20Recipe%20Card&region=leek&pgType=tag&rank=41
+      https://www.jamieoliver.com/recipes/cheese-recipes/cheesy-leeks-la-oliver/
+      https://www.deliaonline.com/recipes/collections/root-vegetables/leek-onion-and-potato-soup -->
+  <h3>Fun fact:</h3>
+      <p>Leeks are one of the national symbols of Wales. Legend says on the eve of the battle against the Saxons, Saint David advised the Britons to wear leeks in their caps so as to easily distinguish friend from foe. </p>
+
+    </body>
+    </html>
