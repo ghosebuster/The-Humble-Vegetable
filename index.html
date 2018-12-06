@@ -2,17 +2,14 @@
 <html>
 <head>
   <title>The Humble Vegetable</title>
-  <link href="css/bootstrap.css" rel="stylesheet">
+  <link href="css/bootstrap.min.css" rel="stylesheet">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="css/main.css" rel="stylesheet">
 </head>
 
 <body>
 <!-- Navbar code below -->
-  <nav class="navbar navbar-inverse navbar-fixed-top">
-    <div class="container">
       <div class="navbar-header">
-      <button type="button" class="collapsed navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-9" aria-expanded="false"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
       <form class="navbar-form navbar-left pull-right" role="search">
         <div class="form-group">
           <input type="text" class="form-control" placeholder="Search">
@@ -59,6 +56,23 @@ We love veg and we want to share that love through this website. Whether you are
   <button class="btn btn-lg btn-pinterest">Pinterest</button>
 </div>
 
+<div class="form-popup" id="myForm">
+  <form action="/action_page.php" class="form-container">
+    <h1>Subscribe</h1>
+
+    <label for="name"><b>Name</b></label>
+    <input type="text" placeholder="Enter Name" name="name" required>
+
+    <label for="email"><b>Email</b></label>
+    <input type="email" placeholder="Enter Email" name="email" required>
+
+    <button type="submit" class="btn">Login</button>
+    <button type="submit" class="btn cancel" onclick="closeForm()">Close</button>
+  </form>
 </div>
+
+</div>
+<script src="http://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="indexscript.js"></script>
 </body>
 </html>
