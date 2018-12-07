@@ -74,8 +74,8 @@ h3 {
 /* Add styles to the form container */
 .form-container {
   max-width: 300px;
-  padding: 10px;
-  background-color: white;
+  padding: 20px;
+  background-color: #407076;
 }
 
 /* Full-width input fields */
@@ -95,8 +95,8 @@ h3 {
 
 /* Set a style for the submit/login button */
 .form-container .btn {
-  background-color: #4CAF50;
-  color: white;
+  background-color: #97B1A6;
+  color: black;
   padding: 16px 20px;
   border: none;
   cursor: pointer;
@@ -107,7 +107,7 @@ h3 {
 
 /* Add a red background color to the cancel button */
 .form-container .cancel {
-  background-color: red;
+  background-color: #EBBAB9;
 }
 
 /* Add some hover effects to buttons */
