@@ -1,12 +1,17 @@
-h2{
-  color: white;
-  font-family: "Times New Roman", Times, serif;
-  font-size: 26px;
-line-height: 1.1;
-padding-top: 20px;
-margin-bottom: 15px
+
+body {
+  font-family: Helvetica;
+  color: #C9C5BA
+}
+
+h2 {
+  color: #698996;
+}
+
+h3 {
+  color: #698996;
 }
 
 body{
-  background-color: #00FA9A;
+  background-color: #97B1A6;
 }
