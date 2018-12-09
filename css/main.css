@@ -140,12 +140,11 @@ p, ul, h4 {
 }
 
 .footer {
-  position: fixed;
   font-family:'Noto Serif TC', serif;
   font-style: regular;
   font-size: 14px;
   left: 0px;
-  bottom: 0;
+  bottom: 0px;
   width: 100%;
   background-color: #ebbab9;
   color: white;
