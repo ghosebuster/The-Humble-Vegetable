@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   font-family: Helvetica;
 }
@@ -40,8 +41,40 @@ body {
 }
 h1 {
   color: #97B1A6;
+=======
+.jumbotron {
+  padding-top: 90px;
+  min-height: 600px;
+  margin-bottom: 0;
+  background-image: url('images/yellow-van');
+  background-size: cover;
+  background-attachment: fixed;
 }
+
+h1 {
+  color: #404076;
+  font-family:'Noto Serif TC', serif;
+  font-style: black;
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+.navbar-inverse {
+  background-color: #ebbab9;
+}
+
+h2 {
+  color: #ebbab9;
+  font-family:'Noto Serif TC', serif;
+  font-style: semi-bold;
+  font-size: 30px;
+  text-align: center;
+>>>>>>> Rachel
+}
+
 h3 {
+<<<<<<< HEAD
   color: #97B1A6;
 }
 
@@ -113,4 +146,36 @@ h3 {
 /* Add some hover effects to buttons */
 .form-container .btn:hover, .open-button:hover {
   opacity: 1;
+=======
+  color:#97b186;
+  font-family:'Noto Serif TC', serif;
+  font-style: regular;
+  font-size: 25px;
+  text-align: center;
+}
+
+p, ul, h4 {
+  font-family:'Noto Serif TC', serif;
+  font-style: regular;
+  font-size: 14px;
+  text-align: center;
+  li-align: center;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+
+/*six image containers for the veg*/
+.column {
+  float: left;
+  width: 16%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+>>>>>>> Rachel
 }
