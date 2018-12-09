@@ -46,6 +46,20 @@ p, ul, h4 {
   padding-right: 200px;
 }
 
+.container {
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #ebbab9;
+  color: white;
+  text-align: center;
+}
 
 /*six image containers for the veg*/
 .column {
