@@ -52,7 +52,8 @@ h1 {
 }
 
 h1 {
-  color: #404076;
+  color: #407076;
+  padding-bottom: 30px;
   font-family:'Noto Serif TC', serif;
   font-style: black;
   font-size: 50px;
@@ -65,7 +66,8 @@ h1 {
 }
 
 h2 {
-  color: #ebbab9;
+  color: #407076;
+  padding-bottom: 20px;
   font-family:'Noto Serif TC', serif;
   font-style: semi-bold;
   font-size: 30px;
@@ -164,6 +166,20 @@ p, ul, h4 {
   padding-right: 200px;
 }
 
+.container {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #ebbab9;
+  color: white;
+  text-align: center;
+}
 
 /*six image containers for the veg*/
 .column {
