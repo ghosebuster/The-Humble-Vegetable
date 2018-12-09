@@ -43,7 +43,10 @@ h2 {
 
 h3 {
   color: #97B1A6;
-    font-family:'Noto Serif TC', serif;
+  font-family:'Noto Serif TC', serif;
+  text-align: center;
+  font-size: 45px;
+  font-style: strong;
 }
 
 {box-sizing: border-box;}
