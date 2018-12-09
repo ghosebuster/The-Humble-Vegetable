@@ -8,7 +8,8 @@
 }
 
 h1 {
-  color: #404076;
+  color: #407076;
+  padding-bottom: 30px;
   font-family:'Noto Serif TC', serif;
   font-style: black;
   font-size: 50px;
@@ -21,7 +22,8 @@ h1 {
 }
 
 h2 {
-  color: #ebbab9;
+  color: #407076;
+  padding-bottom: 20px;
   font-family:'Noto Serif TC', serif;
   font-style: semi-bold;
   font-size: 30px;
@@ -47,8 +49,8 @@ p, ul, h4 {
 }
 
 .container {
-  padding-top: 30px;
-  padding-bottom: 50px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 .footer {
