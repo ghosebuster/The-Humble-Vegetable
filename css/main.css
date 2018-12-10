@@ -147,13 +147,15 @@ p, ul, h4 {
 }
 
 .footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
+  font-family:'Noto Serif TC', serif;
+  font-style: regular;
+  font-size: 14px;
+  left: 0px;
+  bottom: 0px;
   width: 100%;
   background-color: #ebbab9;
   color: white;
-  text-align: center;
+  text-align: left;
 }
 
 /*six image containers for the veg*/
