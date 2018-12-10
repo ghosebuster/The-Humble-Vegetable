@@ -117,7 +117,7 @@ h3 {
 /* Add some hover effects to buttons */
 .form-container .btn:hover, .open-button:hover {
   opacity: 1;
-  color:#97b186;
+  color: #black;
   font-family:'Noto Serif TC', serif;
   font-style: regular;
   font-size: 25px;
