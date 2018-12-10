@@ -1,6 +1,6 @@
 body {
   font-family:'Noto Serif TC', serif;
-  background-color: #ebbab9;
+  background-color: #white;
 }
 
 h2 {
@@ -11,6 +11,10 @@ h2 {
 }
 
 h3 {
-  color: #97B1A6;
+  color: #407076;
   font-family:'Noto Serif TC', serif;
+}
+
+img {
+  padding: 20px;
 }
