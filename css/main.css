@@ -78,7 +78,7 @@ h3 {
 /* Add styles to the form container */
 .form-container {
   max-width: 300px;
-  padding: 20px;
+  padding: 2px;
   background-color: #407076;
 }
 
@@ -137,6 +137,13 @@ p, ul, h4 {
 .container {
   padding-top: 40px;
   padding-bottom: 40px;
+}
+
+.form-p {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 16px;
+  font-weight: bold;
 }
 
 .footer {

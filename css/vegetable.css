@@ -1,17 +1,20 @@
-
 body {
-  font-family: Helvetica;
-  color: #C9C5BA
+  font-family:'Noto Serif TC', serif;
+  background-color: #white;
 }
 
 h2 {
-  color: #698996;
+  color: #407076;
+  font-family:'Noto Serif TC', serif;
+  font-style: semi-bold;
+  font-size: 30px;
 }
 
 h3 {
-  color: #698996;
+  color: #407076;
+  font-family:'Noto Serif TC', serif;
 }
 
-body{
-  background-color: #97B1A6;
+img {
+  padding: 20px;
 }
