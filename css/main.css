@@ -12,19 +12,18 @@
 
 
 .jumbotron {
-  padding-top: 90px;
+  padding-top: 50px;
   min-height: 600px;
   margin-bottom: 0;
 }
 
 h1 {
   color: #407076;
-  padding-bottom: 30px;
+  padding-bottom: 10px;
   font-family:'Noto Serif TC', serif;
   font-style: black;
   font-size: 50px;
   text-align: center;
-  margin-bottom: 1em;
 }
 
 .navbar-inverse {
@@ -139,6 +138,13 @@ p, ul, h4, ol {
 .container {
   padding-top: 40px;
   padding-bottom: 40px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
 }
 
 .form-p {
