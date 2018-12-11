@@ -170,5 +170,7 @@ p, ul, h4 {
   content: "";
   clear: both;
   display: table;
->>>>>>> Rachel
-}
+
+  .edge {
+    padding: 30px;
+  }
