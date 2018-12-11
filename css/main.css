@@ -124,7 +124,7 @@ h3 {
   text-align: center;
 }
 
-p, ul, h4 {
+p, ul, h4, ol {
   font-family:'Noto Serif TC', serif;
   font-style: regular;
   font-size: 14px;
@@ -132,11 +132,6 @@ p, ul, h4 {
   li-align: center;
   padding-left: 200px;
   padding-right: 200px;
-}
-
-
-ul li  {
- list-style-position:inside
 }
 
 .container {
@@ -175,5 +170,3 @@ ul li  {
   content: "";
   clear: both;
   display: table;
->>>>>>> Rachel
-}
