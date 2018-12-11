@@ -134,6 +134,15 @@ p, ul, h4 {
   padding-right: 200px;
 }
 
+
+ul li  {
+ list-style-position:inside
+}
+
+ul.leaf {
+list-style-image: url('/images/leaf_icon.jpg');
+}
+
 .container {
   padding-top: 40px;
   padding-bottom: 40px;
